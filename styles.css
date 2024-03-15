@@ -1,0 +1,37 @@
+/* Estilos para la primera caja */
+.caja1 {
+    background-image: url('fondos.jpg');
+    background-size: cover;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.caja1 h1 {
+    color: rgb(255, 255, 255); /* Cambiar color del texto si se desea */
+}
+
+/* Estilos para la segunda caja */
+.caja2 {
+    background-color: lightblue; /* Cambiar el color de fondo si se desea */
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.caja2 p {
+    color: navy; /* Cambiar color del texto si se desea */
+}
+
+/* Estilos para la tercera caja */
+.caja3 {
+    background-color: lightgreen; /* Cambiar el color de fondo si se desea */
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.caja3 p {
+    font-size: 18px; /* Cambiar el tamaño del texto si se desea */
+    color: darkgreen; /* Cambiar color del texto si se desea */
+}
